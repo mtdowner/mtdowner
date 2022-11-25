@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mtdowner, but you can call me Missy. I'm not even sure how you would pronounce that. 
-- 👀 Anyhoot: I am a very new beginner just beginning to learn web development. Allllll by myself! 😁
-- 🌱 I’m currently learning how to code for my organization's website.
+👋 Hi, I’m @mtdowner, but I'm unsure how to pronounce that.. so you can call me Missy for short. 
+- 👀 Anyhoot: I am super duper new to web development, and I'm learning everything on my own. With the help of some awesome resources, of course. But still, I'm learning allll by myself!
+- 🌱 At 30 years old, I have decided to  ryk up  currently learning how to code for my organization's website.
 - 💞️ I’m looking to collaborate on easy projects/tutorials so I can gain experience using GitHub, because I am often confused! 
 - 📫 How to reach me: <URL> mdowner@southwestrecoveryalliance.onmicrosoft.com </URL>
 
