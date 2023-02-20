@@ -6,6 +6,6 @@
 - 🚢 I have a boatload of awesome resources so far, so please reach out any time if you need some recommendations. At the same time, if you have any recommendations, I'd love to add them with a thank you next to your name.
 | ----heading-- | ---heading---| ----heading----- |
 | ----- cell ------ | ---- cell ----- | ----- cell ----- |
-- 📝 <URL> messymissy.hashnode.dev </URL>
-- 📕 (Free stuff is cool)(https://www.coda.com/freebeginners
+- 📝 [Hashnode is cool](https://www.messymissy.hashnode.dev)
+- 📕 [Free stuff is cool](https://www.coda.com/freebeginners)
 - ✉️mdowner1@cloud.com
