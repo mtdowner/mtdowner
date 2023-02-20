@@ -7,5 +7,5 @@
 | ----heading-- | ---heading---| ----heading----- |
 | ----- cell ------ | ---- cell ----- | ----- cell ----- |
 - 📝 <URL> messymissy.hashnode.dev </URL>
-- 📕 (Free stuff is cool)[https://www.coda.com/freebeginners]
+- 📕 (Free stuff is cool)(https://www.coda.com/freebeginners
 - ✉️mdowner1@cloud.com
