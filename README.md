@@ -3,6 +3,9 @@
 - 💽 At 30 years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. But hey, have you seen the kind of cash you could be rolling around in? But then again, have you seen how much it costs for some of these bootcamps? That's why I'm going the whole teaching-myself-how-to-code thing.
 - ⌨️ I’m looking to collaborate on easy projects, and I mean easy. I'm talking projects a third grader can do. I'd really like to stop being confused using GitHub. Plus, I want more of those cool badges!  
 - 🎒 If I haven't scared you off by now and you have continued sitting there in that seat witnessing this new train about to wreck, please feel free to say hi and invite me to test out your courses or tutorials you need feedback on 😇.
-- 🚢 I have a boatload of awesome resources so far, so please reach out any time if you need some recommendations. At the same time, if you have any recommendations, I'd love to add them with a thank you next to your name.  
-- 📕 <URL> coda.com/freebeginners
+- 🚢 I have a boatload of awesome resources so far, so please reach out any time if you need some recommendations. At the same time, if you have any recommendations, I'd love to add them with a thank you next to your name.
+| ----heading-- | ---heading---| ----heading----- |
+| ----- cell ------ | ---- cell ----- | ----- cell ----- |
+- 📝 <URL> messymissy.hashnode.dev </URL>
+- 📕 <URL> coda.com/freebeginners </URL>
 - ✉️ <URL> mdowner1@icloud.com </URL>
