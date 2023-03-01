@@ -1,0 +1,151 @@
+html {
+    font-family: "Courier New", monospace;
+    padding-top: 10px;
+    border: 15px inset #6666FF;
+  }
+  
+   body {
+      background: linear-gradient(73deg, #6666ff, #ff99ff, #ff99ff);
+      max-width: 25em;
+      width: 100%;
+      display: block;
+      margin: 0 auto;
+      padding: 20px;
+      border: 5px dashed white;
+  }
+  
+  .box {
+    position: relative;
+  }
+  
+  .box::before {
+    content: "";
+    position: absolute;
+    inset: -5px; /* control the spread */
+    transform: translate(10px, 8px); /* control the offsets */
+    z-index: -1; /* place the element behind */
+    background: linear-gradient(#A899FF, #4f1ae0, #b208d4);  /* gradient here */
+    filter: blur(5px); /* control the blur */
+  }
+  
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A899FF;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #5908d4;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
+  
+  p {
+     color: #A899FF;
+  }
+    
+    .survey-form {
+      background: linear-gradient(73deg, black, white, darkgray);
+      padding: 20px;
+      border:5px outset gray;
+    }
+    
+    .welcome {
+      color: mediumpurple;
+      font-weight: bold;
+      font-size: 30px;
+      text-align: center;
+      background: #000000;
+    }
+    
+    #name, #email, #number, textarea {
+    font-family: monospace;
+      width: 95%;
+      border-radius: 10px;
+      margin: 10px 10px 10px 0;
+      min-height: 2em;
+    }
+    
+    p {
+      font-size: 20px;
+      color: black;
+      padding: 5px;
+      border-radius: 10px
+    }
+    
+    h1 {
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid mediumslateblue;
+    padding: 5px;
+    margin: 10px;
+    }
+    
+    hr {
+    border: 10px double mediumslateblue; 
+    }
+  
+    ::placeholder {
+      color: rgb(95, 13, 177);
+      opacity: 1;
+    }
+    
+    :-ms-input-placeholder {
+      color: rgb(95, 13, 177);
+    }
+    
+    ::-ms-input-placeholder {
+      color: rgb(95, 13, 177);
+    }
+    
+    .q3, .q4 {
+      margin-top: 10px;
+      line-height: 35px;
+    }
+    
+    .comment {
+      background: linear-gradient, (#ffffff, #000000);
+      padding: 25px;
+      margin-bottom: 10px;
+      }
+  
+    textarea {
+      font-family: monospace;
+      color: #ffffff;
+      caret-color: mediumpurple;
+      padding-left: 10px;
+      padding-top: 5px;
+      border: 1px inset mediumpurple;
+      background: #6666ff;
+    }
+    
+    button {
+    font-family: monospace;
+      color: rgb(94, 23, 128);
+      background: linear-gradient(73deg, #6666ff, #ff99ff, #ff99ff);
+      border-radius: 15px;
+      padding: 5px 30px 5px 30px;
+      border: 1px solid #6666ff;
+    }
+    
+    input {
+      color: white;
+        background: mediumpurple;
+        caret-color: mediumslateblue;
+        line-height: 40px;
+        padding-left: 15px;
+        border: 1px solid #6666ff;
+    }

@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Survey Form</title>
+<link rel="stylesheet" href="styles.css"/> </head>
+<body>
+  <div class="survey-form">
+<h1 id="title">A SURVEY'S SECRET</h1>
+<p class="welcome">WELCOME!</p>
+<p id="description">Wow, congrats! You've been chosen! Does it matter what for? No, so let's get on with it. Hopefully this isn't exactly like sticking hot pokers in your eyeballs. But, this is needed in the name of coding world of tech chicks like you and me. Who knows, maybe you'll get a "thank you" at the end! (Nah, I doubt it).</p>
+<hr>
+<form id="survey-form">
+<p>1. Give up your identity. Hurry!</p>
+
+<label for="name" id="name-label">Name: <input id="name" name="name" type="text" placeholder="Real or fake, who cares" required /></label>
+<br>
+<label for="email" id="email-label">Email: <input id="email" name="email" type="email" placeholder="ilovesurveys@survey.com" required /></label>
+<br>
+<label for="number" id="number-label">Number: <input id="number" name="number" type="number" min="0" max="9" placeholder="555-555-5557" /></label>
+</form>
+<hr>
+<p>
+<label for="dropdown">2. Are you qualified to take surveys?</label>
+</p>
+<select id="dropdown">
+<optgroup label="Be honest">
+  <option></option>
+<option value="yes">Yes</option>
+<option value="hell yes">Hell yes!</option> </optgroup>
+</select>
+<br>
+<div class="q3">
+<p>
+<label for="radio">3. Are you good at keeping secrets?</label>
+</p>
+<input type="radio" name="radio" value="yes"> Duh! Let me tell you about this one time my friend...
+<br>
+<input type="radio" name="radio" value="no"> No way!
+</div>
+<div class="q4">
+<p>
+<label for="checkbox">4. Please choose your compensation for taking this survey.
+</p>
+<input type="checkbox" value="chocolate"> Chocolate imported by hand from Switzerland.
+<br>
+<input type="checkbox" value="million"> One million dollars.
+<br>
+<input type="checkbox" value="worldpeace"> Nothing, I'd rather have world peace.
+</label>
+</div
+<br>
+<br>
+<div class="comment">
+<label for="comment">We love feedback!</label>
+<br>
+<textarea placeholder="Leave your compliments (or complaints) here." rows="3" cols="20"></textarea>
+<br>
+<button id="submit">Submit</button>
+</div>
+</div>
+</form>
+</body>
+</html>
