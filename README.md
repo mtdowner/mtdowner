@@ -1,17 +1,32 @@
-# Hi, stranger on my page.. I’m @mtdowner!
+# Hi, stranger... on my page..
+
+## I’m @mtdowner!
+
 I'm unsure how to pronounce that.. so you can call me Missy for short. 
 
 <details>
-  <summary> 👩🏻‍💻 Anyhoot:</summary>
-  
-  I am super duper new to web development, and I'm learning everything on my own. With the help of some awesome resources, of course. But still, just between you, me, and my resume, I'm learning allll by myself! And for free, too.
+<summary>👩🏻‍💻 Let me introduce myelf</summary>
+<br>
+👩🏻‍💻 I am super duper new to web development, and I'm learning everything on my own. With the help of some awesome resources, of course. But still, just between you, me, and my resume, I'm learning allll by myself! And for free, too.
 </details>
+
+****
+
 <details>
-  <summary> A milestone:</summary>
+<summary>🪦 A milestone</summary>
+<br>
 🪦 At 30 years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. But hey, have you seen the kind of cash you could be rolling around in?
   </details>
-- ⌨️ I’m looking to collaborate on easy projects, and I mean easy. I'm talking projects that make Raspberrypi projects look hard.
-- 🎒 If I haven't scared you off by now and you have continued sitting there in that seat witnessing this new train about to wreck, please feel free to say hi and invite me to test out your courses or tutorials you need feedback on 😇.
+
+****
+
+<details>
+<summary>🎒 Collaborate, and listen!</summary>
+<br>
+🎒 If you're still here, feel free to join one of my classes I put together or check out my Coda document full of free ways to learn web development and programming. That being said, if you have any tutorials you would like feedback on, I'd be happy to help with that :).
+  </details>
+
+
 - 📝 [Hashnode is cool](https://www.messymissy.hashnode.dev)
 - 📕 [Free stuff is cool](https://www.coda.com/freebeginners)
 - 🚀 [Astro Blog](https://messyweb-c5d62z7ag-mtdowner.vercel.app)
