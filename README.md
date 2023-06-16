@@ -1,19 +1,15 @@
-# Hi, stranger... on my page..
-
-## I’m @mtdowner!
-
-I'm unsure how to pronounce that.. so you can call me Missy for short. 
+# Hi, stranger!
 
 <details>
-<summary>👩🏻‍💻 Let me introduce myelf</summary>
+<summary>Allow me to reintroduce myelf</summary>
 <br>
-👩🏻‍💻 I am super duper new to web development, and I'm learning everything on my own. With the help of some awesome resources, of course. But still, just between you, me, and my resume, I'm learning allll by myself! And for free, too.
+I'm @mtdowner. I'm unsure how to pronounce that, so you can just call me Missy. I am super duper new to web development, and I'm learning everything on my own. With the help of some awesome resources, of course. But still, just between you, me, and my resume, I'm learning allll by myself! And for free, too.
 </details>
 
 ****
 
 <details>
-<summary>🪦 A milestone</summary>
+<summary>🪦 Aiîûz Sa/ milestone</summary>
 <br>
 🪦 At 30 years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. But hey, have you seen the kind of cash you could be rolling around in?
   </details>
