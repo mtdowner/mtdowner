@@ -9,17 +9,17 @@ I'm @mtdowner. I'm unsure how to pronounce that, so you can just call me Missy. 
 ****
 
 <details>
-<summary>🪦 Aiîûz Sa/ milestone</summary>
+<summary>A ~grave~ milestone</summary>
 <br>
-🪦 At 30 years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. But hey, have you seen the kind of cash you could be rolling around in?
+At 30 years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. But hey, have you seen the kind of cash you could be rolling around in?
   </details>
 
 ****
 
 <details>
-<summary>🎒 Collaborate, and listen!</summary>
+<summary>Collaborate, and listen!</summary>
 <br>
-🎒 If you're still here, feel free to join one of my classes I put together or check out my Coda document full of free ways to learn web development and programming. That being said, if you have any tutorials you would like feedback on, I'd be happy to help with that :).
+ If you're still here, feel free to join one of my classes I put together or check out my Coda document full of free ways to learn web development and programming. That being said, if you have any tutorials you would like feedback on, I'd be happy to help with that :).
   </details>
 
 
