@@ -17,6 +17,6 @@ At 30 som'in years old, I have decided to completely change my career (lol what 
 - [LinkedIN](https://linkedin.com/in/melissa-downer/)
 - Instagram - [@smiss.and.wesson](https://instagram.com/smiss.and.wesson/)
 - 🚀 [Astro Blog](https://messyweb-c5d62z7ag-mtdowner.vercel.app)
-- Khan Academy - [Take a class with me]()
+- Khan Academy - [Take a class with me](https://www.khanacademy.org/join/VMYNR8RS/)
 - CodeHS - [Take more classes with me]()
 - ✉️mdowner1@cloud.com
