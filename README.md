@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/missy"><img src="https://api.daily.dev/devcards/2aa01cfdf1824c9ca794bde689464ea1.png?r=qcy" width="400" alt="Missy's Dev Card"/></a>
+
 # Hi, stranger! #
 I'm __@mtdowner__. I'm unsure how to pronounce that, so you can just call me __Missy__.
 
@@ -12,7 +14,7 @@ At 30 som'in years old, I have decided to completely change my career (lol what 
 - 📕 Programming the Beginner - [Free web dev learning resources](https://www.coda.com/freebeginners/)
 - Frontend Mentor - [@mtdowner](https://www.frontendmentor.io/profile/mtdowner/)
 - Twitter - [@downer_missy](https://www.twitter.com/downer_missy/)
-- Hasnode - [@justmissy](https://www.messymissy.hasnode.dev/)
+- Hashnode - [@justmissy](https://www.messymissy.hasnode.dev/)
 - [Daily.dev](https://app.daily.dev/missy/)
 - [LinkedIN](https://linkedin.com/in/melissa-downer/)
 - Instagram - [@smiss.and.wesson](https://instagram.com/smiss.and.wesson/)
