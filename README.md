@@ -20,3 +20,6 @@ At 30 som'in years old, I have decided to completely change my career (lol what 
 - Khan Academy - [Take a class with me](https://www.khanacademy.org/join/VMYNR8RS/)
 - CodeHS - [Take more classes with me]()
 - ✉️mdowner1@cloud.com
+
+
+[![wakatime](https://wakatime.com/badge/user/88be785a-6b81-4f8e-ae20-b474ce075699.svg)](https://wakatime.com/@88be785a-6b81-4f8e-ae20-b474ce075699)
