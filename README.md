@@ -11,17 +11,16 @@ At 30 som'in years old, I have decided to completely change my career (lol what 
 
 
 - 📝 Website - [My portfolio](https://www.mtdowner.github.io/)
-- 📕 Programming the Beginner - [Free web dev learning resources](https://www.coda.com/freebeginners/)
+- 📕 Programming the Beginner - [Free web dev learning resources](https://coda.io/d/Programming-the-Beginner_dj3kh5055Tv/Gain-Coding-XP-for-Free_su4zj#Courses-and-Tutorials_tuGnt/r84&view=modal)
 - Frontend Mentor - [@mtdowner](https://www.frontendmentor.io/profile/mtdowner/)
 - Twitter - [@downer_missy](https://www.twitter.com/downer_missy/)
 - Hashnode - [@justmissy](https://www.messymissy.hasnode.dev/)
 - [Daily.dev](https://app.daily.dev/missy/)
 - [LinkedIN](https://linkedin.com/in/melissa-downer/)
 - Instagram - [@smiss.and.wesson](https://instagram.com/smiss.and.wesson/)
-- 🚀 [Astro Blog](https://messyweb-c5d62z7ag-mtdowner.vercel.app)
 - Khan Academy - [Take a class with me](https://www.khanacademy.org/join/VMYNR8RS/)
-- CodeHS - [Take more classes with me]()
-- ✉️mdowner1@cloud.com
+- CodeHS - [Take more classes with me](https://codehs.com/)
+- ✉ mdowner1@cloud.com
 
 
 [![wakatime](https://wakatime.com/badge/user/88be785a-6b81-4f8e-ae20-b474ce075699.svg)](https://wakatime.com/@88be785a-6b81-4f8e-ae20-b474ce075699)
