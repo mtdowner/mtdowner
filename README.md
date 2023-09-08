@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/missy"><img src="https://api.daily.dev/devcards/2aa01cfdf1824c9ca794bde689464ea1.png?r=qcy" width="400" alt="Missy's Dev Card"/></a>
 
-# Hi, stranger! #
+# OMG HiHiHi, stranger! #
 I'm __@mtdowner__. I'm unsure how to pronounce that, so you can just call me __Missy__.
 
 ## Allow me to reintroduce myelf ##
@@ -10,8 +10,8 @@ At 30 som'in years old, I have decided to completely change my career (lol what 
  If you're still here, feel free to join one of my classes I put together or check out my Coda document full of free ways to learn web development and programming. That being said, if you have any tutorials you would like feedback on, I'd be happy to help with that :).
 
 
-- 📝 Website - [My portfolio](https://www.mtdowner.github.io/)
-- 📕 Programming the Beginner - [Free web dev learning resources](https://coda.io/d/Programming-the-Beginner_dj3kh5055Tv/Gain-Coding-XP-for-Free_su4zj#Courses-and-Tutorials_tuGnt/r84&view=modal)
+- 💻Website - [My portfolio of portfolios](https://www.mtdowner.github.io/)
+- 📕 Programming the Beginner - [Free learning stuff](https://coda.io/)
 - Frontend Mentor - [@mtdowner](https://www.frontendmentor.io/profile/mtdowner/)
 - Twitter - [@downer_missy](https://www.twitter.com/downer_missy/)
 - Hashnode - [@justmissy](https://www.messymissy.hasnode.dev/)
