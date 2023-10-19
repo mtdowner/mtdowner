@@ -1,7 +1,7 @@
-PROJECT 2: BUILD A RESPONSIVE BLOG THEME
-
 <!DOCTYPE html>
+<html>
 <head>
+<title>Build a responsive blog</title>
   <link href="/normalize.css" rel="stylesheet">
   <style>
     header {
