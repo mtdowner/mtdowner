@@ -1,6 +1,7 @@
-PROJECT 1: BUILD A PERSONAL WEBSITE
+<!--- PROJECT 1: BUILD A PERSONAL WEBSITE --->
 
 <!DOCTYPE html>
+<html lang="en">
 <head>
   <title>Anna Dowlin</title>
   <style>
@@ -37,3 +38,4 @@ PROJECT 1: BUILD A PERSONAL WEBSITE
   <input type="email" placeholder="Your email">
   <input type="submit">
 </body>
+</html>
