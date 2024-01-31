@@ -4,12 +4,12 @@
 I'm __@mtdowner__. I'm unsure how to pronounce that, so you can just call me __Missy__.
 
 ## Allow me to reintroduce myelf ##
-At 30 som'in years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. To add, I decided going the self-teaching route which is quite Herculean. Can my pea brain handle all this information?
+At 30 som'in years old, I have decided to completely change my career (lol what career?) and take up something I know very little bit about. To add, I opted going with the self-teaching route (like a ding-dong). Can my pea brain handle all this information?
 
 __Stay tuned to find out!__
 
 ## Collaborate, and listen! ##
- If you're still here, feel free to join one of my classes I put together or check out my Coda document full of free ways to learn web development and programming. That being said, if you have any tutorials you would like feedback on, I'd be happy to help with that :).
+ If you're still here, feel free to join one of my classes I put together, or check out my Coda document full of free resources on learning web development. That being said, if you have your own tutorials you would like feedback on, I'd be happy to help with that! You may also add any resources I missed.
 
 
 - 💻Website - [My portfolio of portfolios](https://www.mtdowner.github.io/)
@@ -23,6 +23,5 @@ __Stay tuned to find out!__
 - Khan Academy - [Take a class with me](https://www.khanacademy.org/join/VMYNR8RS/)
 - CodeHS - [Take more classes with me](https://codehs.com/)
 - ✉ mdowner1@cloud.com
-
 
 [![wakatime](https://wakatime.com/badge/user/88be785a-6b81-4f8e-ae20-b474ce075699.svg)](https://wakatime.com/@88be785a-6b81-4f8e-ae20-b474ce075699)
